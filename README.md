@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+### Dynamic Pricing
 
-You can use the [editor on GitHub](https://github.com/jungwon1413/liquorshotz.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+지금의 Dynamic Pricing은 다음과 같은 정의를 가지고 있습니다.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- `Optimal Pricing`을 달성하기 위한 꾸준한 가격의 변경
 
-### Markdown
+  ![Image1](https://i2.wp.com/marketbusinessnews.com/wp-content/uploads/2017/10/Optimal-Price-image-with-definition-and-example.jpg?resize=500%2C363&ssl=1)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 따라서 `Demand(수요)`에 대한 정의가 필요합니다.
 
-```markdown
-Syntax highlighted code block
+  - `수요`에 대한 정의는 다음 링크를 통해 알 수 있습니다.
+    [수요 - Wikipedia](https://ko.wikipedia.org/wiki/%EC%88%98%EC%9A%94)
 
-# Header 1
-## Header 2
-### Header 3
+- 따라서 `Dynamic Pricing`을 위해서는 다음과 같은 과정이 필요합니다.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```
+1. Demand Function의 정의 (Y)
+2. Revenue Function의 정의 (F(X))
+3. Optimal Price의 정의 (X)
+4. Optimal Price에 대한 평가 방법 (Validation)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jungwon1413/liquorshotz.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
